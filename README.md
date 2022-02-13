@@ -1,2 +1,2 @@
 # home-work-js
-The last homework is located in the "Last Homework" folder
+To view the latest homework, download the repository from the link:"https://github.com/MihasyaS/home-work-js.git", open the folder "Last homework"
